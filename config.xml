@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<site name="Olly &amp; Ria's Wedding">
+	<users>
+		<user username="admin" password="bananas" level="admin"/>
+	</users>
+	<pages>
+		<page title="about" url="about"/>
+		<page title="accomodation" url="accomodation"/>
+		<page title="location" url="location"/>
+	</pages>
+</site>
